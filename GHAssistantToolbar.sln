@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHAssistantToolbar", "GHAssistantToolbar\GHAssistantToolbar.csproj", "{7406266E-1F08-468E-9D82-50D694C712E2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GHAssistantSetup", "GHAssistantSetup\GHAssistantSetup.vdproj", "{F8B5F788-454B-4A0D-B0D8-088D42EBA999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7406266E-1F08-468E-9D82-50D694C712E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7406266E-1F08-468E-9D82-50D694C712E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7406266E-1F08-468E-9D82-50D694C712E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7406266E-1F08-468E-9D82-50D694C712E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B5F788-454B-4A0D-B0D8-088D42EBA999}.Debug|Any CPU.ActiveCfg = Debug
+		{F8B5F788-454B-4A0D-B0D8-088D42EBA999}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
